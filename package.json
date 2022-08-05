@@ -36,7 +36,7 @@
         "jsonwebtoken": "^8.4.0",
         "lodash": "^4.17.11",
         "moment": "^2.24.0",
-        "mongoose": "^5.3.12",
+        "mongoose": "^5.7.5",
         "mv": "^2.1.1",
         "ng-cli": "^0.7.0",
         "passport": "^0.4.0",
